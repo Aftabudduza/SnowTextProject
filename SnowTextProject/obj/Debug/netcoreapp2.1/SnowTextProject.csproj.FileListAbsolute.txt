@@ -1,0 +1,70 @@
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csprojAssemblyReference.cache
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfoInputs.cache
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfo.cs
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csproj.CoreCompileInputs.cache
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cache
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cs
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.deps.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.dev.json
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.dll
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.pdb
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorTargetAssemblyInfo.cache
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.dll
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.pdb
+E:\Corporate Office\My Project\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.genruntimeconfig.cache
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.deps.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.dev.json
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.dll
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.pdb
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfoInputs.cache
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfo.cs
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csproj.CoreCompileInputs.cache
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cache
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cs
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorTargetAssemblyInfo.cache
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.dll
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.pdb
+E:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.genruntimeconfig.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.deps.json
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.json
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.dev.json
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.dll
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.pdb
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csprojAssemblyReference.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfoInputs.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfo.cs
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csproj.CoreCompileInputs.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cs
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorTargetAssemblyInfo.cache
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.dll
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.pdb
+F:\Snowtext\SnowTextProject\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.genruntimeconfig.cache
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.deps.json
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.json
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.runtimeconfig.dev.json
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.dll
+F:\Source\SnowTextProject\SnowTextProject\bin\Debug\netcoreapp2.1\SnowTextProject.pdb
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csproj.AssemblyReference.cache
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfoInputs.cache
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.AssemblyInfo.cs
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.csproj.CoreCompileInputs.cache
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cache
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorAssemblyInfo.cs
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.RazorTargetAssemblyInfo.cache
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.dll
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.pdb
+F:\Source\SnowTextProject\SnowTextProject\obj\Debug\netcoreapp2.1\SnowTextProject.genruntimeconfig.cache
